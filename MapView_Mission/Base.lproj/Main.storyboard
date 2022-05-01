@@ -22,6 +22,7 @@
                                     <segment title="현재위치"/>
                                     <segment title="폴리텍대학"/>
                                     <segment title="이지스폴리텍"/>
+                                    <segment title="우리집"/>
                                 </segments>
                                 <connections>
                                     <action selector="sgChangeLocation:" destination="BYZ-38-t0r" eventType="valueChanged" id="gsd-ZP-3rD"/>
